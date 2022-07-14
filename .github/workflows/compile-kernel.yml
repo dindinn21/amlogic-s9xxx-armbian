@@ -28,9 +28,9 @@ on:
           - 5.15.45_5.18.5
           - 5.4.188
           - 5.10.125
+          - 5.10.127
           - 5.15.50
           - 5.18.5
-          - 5.9.1
       kernel_auto:
         description: "Auto use the latest kernel"
         required: false
